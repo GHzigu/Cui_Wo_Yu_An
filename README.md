@@ -1,2 +1,2 @@
-# Cui_Wo_Yu_An
+# 幽灵之心
 Pixel
